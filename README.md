@@ -1,4 +1,5 @@
 💰Expense Tracker – Full Stack Web Application 
+<br>
 • A full-stack Expense Tracker application built to help users manage and track their daily 
 expenses efficiently with real-time calculations, category-wise tracking, and report generation.
 
@@ -20,6 +21,7 @@ expenses efficiently with real-time calculations, category-wise tracking, and re
 <br>
 
 🛠️ Tech Stack
+<br>
 🔹 Frontend
 HTML5
 CSS3
@@ -34,7 +36,7 @@ Spring Data JPA
 
 🔹 Database
 MySQL
-
+<br>
 🏗️ Project Architecture
 Controller Layer  → Handles API requests
 Service Layer     → Business logic
