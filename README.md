@@ -2,25 +2,38 @@
 • A full-stack Expense Tracker application built to help users manage and track their daily 
 expenses efficiently with real-time calculations, category-wise tracking, and report generation.
 
-Feature
-1.Add, update, delete, and view expenses (CRUD operations)
-2.Category-wise expense tracking (Food, Travel, Rent, etc.)
-3.Date-wise filtering of expenses
-4.Real-time total expense calculation
-5.Export expenses to Excel for reporting
-6.Dashboard view for expense summary
+<br>
+✨ Key Features
 
-Tech
-• FrontEnd - HTML, CSS, JavaScript
-Backend -
+✅ CRUD Operations – Add, update, delete, and view expenses seamlessly
+
+📂 Category-wise Expense Tracking – Organize expenses under Food, Travel, Rent, Utilities, etc.
+
+📅 Date-wise Filtering – Filter expenses by specific dates or ranges
+
+⚡ Real-time Expense Calculation – Automatic total expense updates
+
+📊 Dashboard View – Visual summary of expenses for quick insights
+
+📥 Excel Export – Download expense data in Excel format for reporting and analysis
+
+<br>
+
+🛠️ Tech Stack
+🔹 Frontend
+HTML5
+CSS3
+JavaScript
+
+🔹 Backend
 Java
 Spring Boot
 RESTful APIs
 Hibernate
 Spring Data JPA
-Database
-MySQL
 
+🔹 Database
+MySQL
 
 🏗️ Project Architecture
 Controller Layer  → Handles API requests
