@@ -53,8 +53,11 @@ MySQL
 🏗️ Project Architecture
 
 Controller Layer  → Handles API requests
+
 Service Layer     → Business logic
+
 Repository Layer  → Database interaction
+
 Database          → MySQL
 
 🚀 Highlights
@@ -67,7 +70,7 @@ Database          → MySQL
 
 •Designed for scalability, maintainability, and real-world usage
 
-📌 Use Cases
+📌Use Cases
 
 •Personal expense tracking
 
