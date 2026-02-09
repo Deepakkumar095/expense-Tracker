@@ -22,27 +22,58 @@ expenses efficiently with real-time calculations, category-wise tracking, and re
 
 🛠️ Tech Stack
 <br>
+
 🔹 Frontend
-HTML5
-CSS3
-JavaScript
+
+•HTML5
+
+•CSS3
+
+•JavaScript
 
 🔹 Backend
-Java
-Spring Boot
-RESTful APIs
-Hibernate
-Spring Data JPA
+
+•Java
+
+•Spring Boot
+
+•RESTful APIs
+
+•Hibernate
+
+•Spring Data JPA
 
 🔹 Database
+
 MySQL
+
 <br>
 🏗️ Project Architecture
+
 Controller Layer  → Handles API requests
 Service Layer     → Business logic
 Repository Layer  → Database interaction
 Database          → MySQL
 
+🚀 Highlights
+
+•Implemented RESTful API design principles following MVC architecture
+
+•Used Spring Data JPA & Hibernate for efficient ORM and database interactions
+
+•Ensured clean code structure with separation of concerns
+
+•Designed for scalability, maintainability, and real-world usage
+
+📌 Use Cases
+
+•Personal expense tracking
+
+•Budget monitoring
+
+•Financial reporting
+
+•Learning real-world Spring Boot backend development
 
 
 
