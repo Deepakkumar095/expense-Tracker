@@ -1,90 +1,60 @@
-💰Expense Tracker – Full Stack Web Application 
+# 💰 Expense Tracker – Full Stack Web Application
 
+A full-stack **Expense Tracker** application built to help users manage and track their daily expenses efficiently with **real-time calculations, category-wise tracking, and report generation**.
 
-• A full-stack Expense Tracker application built to help users manage and track their daily 
+---
 
-expenses efficiently with real-time calculations, category-wise tracking, and report generation.
+## ✨ Key Features
 
-<br>
-✨ Key Features
+- **CRUD Operations** – Add, update, delete, and view expenses seamlessly  
+- **Category-wise Expense Tracking** – Organize expenses under Food, Travel, Rent, Utilities, etc.  
+- **Date-wise Filtering** – Filter expenses by specific dates or ranges  
+- **Real-time Expense Calculation** – Automatic total expense updates  
+- **Dashboard View** – Visual summary of expenses for quick insights  
+- **Excel Export** – Download expense data in Excel format for reporting and analysis  
 
-✅ CRUD Operations – Add, update, delete, and view expenses seamlessly
+---
 
-📂 Category-wise Expense Tracking – Organize expenses under Food, Travel, Rent, Utilities, etc.
+## 🛠️ Tech Stack
 
-📅 Date-wise Filtering – Filter expenses by specific dates or ranges
+### 🔹 Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
 
-⚡ Real-time Expense Calculation – Automatic total expense updates
+### 🔹 Backend
+- Java  
+- Spring Boot  
+- RESTful APIs  
+- Hibernate  
+- Spring Data JPA  
 
-📊 Dashboard View – Visual summary of expenses for quick insights
+### 🔹 Database
+- MySQL  
 
-📥 Excel Export – Download expense data in Excel format for reporting and analysis
+---
 
-<br>
+## 🏗️ Project Architecture
 
-🛠️ Tech Stack
-<br>
+- **Controller Layer** – Handles API requests  
+- **Service Layer** – Contains business logic  
+- **Repository Layer** – Manages database interactions  
+- **Database** – MySQL  
 
-🔹 Frontend
+---
 
-•HTML5
+## 🚀 Highlights
 
-•CSS3
+- Implemented **RESTful API design principles** following **MVC architecture**  
+- Used **Spring Data JPA & Hibernate** for efficient ORM and database interactions  
+- Ensured **clean code structure** with proper separation of concerns  
+- Designed for **scalability, maintainability, and real-world usage**  
 
-•JavaScript
+---
 
-🔹 Backend
+## 📌 Use Cases
 
-•Java
-
-•Spring Boot
-
-•RESTful APIs
-
-•Hibernate
-
-•Spring Data JPA
-
-🔹 Database
-
-MySQL
-
-<br>
-🏗️ Project Architecture
-
-Controller Layer  → Handles API requests
-
-Service Layer     → Business logic
-
-Repository Layer  → Database interaction
-
-Database          → MySQL
-
-🚀 Highlights
-
-•Implemented RESTful API design principles following MVC architecture
-
-•Used Spring Data JPA & Hibernate for efficient ORM and database interactions
-
-•Ensured clean code structure with separation of concerns
-
-•Designed for scalability, maintainability, and real-world usage
-
-📌Use Cases
-
-•Personal expense tracking
-
-•Budget monitoring
-
-•Financial reporting
-
-•Learning real-world Spring Boot backend development
-
-
-
-<img width="1888" height="867" alt="Screenshot 2026-02-09 162034" src="https://github.com/user-attachments/assets/ab15fa3b-6c7a-48fe-bda4-813644fc7943" />
-
-
-<img width="1713" height="834" alt="Screenshot 2026-02-09 162132" src="https://github.com/user-attachments/assets/eba45665-48a4-4c90-b6ce-f7f288327014" />
-
-
+- Personal expense tracking  
+- Budget monitoring  
+- Financial reporting  
+- Learning real-world **Spring Boot backend development**
