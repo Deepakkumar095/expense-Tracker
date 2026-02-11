@@ -1,6 +1,6 @@
 # 💰 Expense Tracker – Full Stack Web Application
 
-A full-stack **Expense Tracker** application built to help users manage and track their daily expenses efficiently with **real-time calculations, category-wise tracking, and report generation**.
+ **Expense Tracker** is a full stack web application built to help users manage and track their daily expenses efficiently with **real-time calculations, category-wise tracking, and report generation**.
 
 ---
 
