@@ -58,3 +58,42 @@ A full-stack **Expense Tracker** application built to help users manage and trac
 - Budget monitoring  
 - Financial reporting  
 - Learning real-world **Spring Boot backend development**
+
+## 📸 Screenshots
+
+<img width="1888" height="867" alt="Screenshot 2026-02-09 162034" src="https://github.com/user-attachments/assets/967edce9-17ce-4aad-98b0-00eb300075e8" />
+
+<img width="1713" height="834" alt="Screenshot 2026-02-09 162132" src="https://github.com/user-attachments/assets/44958cae-848a-4c94-aa62-48ba6b559b28" />
+
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository  
+   git clone https://github.com/username/expense-tracker.git
+
+2. Configure MySQL database  
+   - Create database `expense_tracker`
+   - Update `application.properties`
+
+3. Run the application  
+   mvn spring-boot:run
+## 📡 API Endpoints
+
+| Method | Endpoint            | Description          |
+|------|---------------------|----------------------|
+| GET  | /api/expenses       | Get all expenses     |
+| POST | /api/expenses       | Add new expense      |
+| PUT  | /api/expenses/{id}  | Update expense       |
+| DELETE | /api/expenses/{id} | Delete expense       |
+
+## 🧪 Testing
+
+- Unit testing for service layer
+- API testing using Postman
+
+## 🔮 Future Enhancements
+
+- User authentication with JWT
+- Monthly & yearly analytics
+- Cloud deployment (AWS / Azure)
+
