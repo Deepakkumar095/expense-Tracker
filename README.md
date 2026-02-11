@@ -68,8 +68,17 @@ A full-stack **Expense Tracker** application built to help users manage and trac
 
 ## ⚙️ Installation & Setup
 
+# 🖥️ Prerequisites
+
+- Java 17 or later
+- Maven
+- MySQL
+- Git
+- Any IDE (IntelliJ / Eclipse / VS Code)
+
+##⚙️ Backend Setup (Spring Boot)
 1. Clone the repository  
-   git clone https://github.com/username/expense-tracker.git
+   git clone https://github.com/Deepakkumar095/expense-Tracker.git
 
 2. Configure MySQL database  
    - Create database `expense_tracker`
@@ -77,6 +86,9 @@ A full-stack **Expense Tracker** application built to help users manage and trac
 
 3. Run the application  
    mvn spring-boot:run
+   or
+   Backend will run at: http://localhost:4000
+
 ## 📡 API Endpoints
 
 | Method | Endpoint            | Description          |
